@@ -1,0 +1,33 @@
+body {
+  font-family: 'Georgia', serif;
+  background-image: url('https://images2.alphacoders.com/235/235470.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.app-container {
+  text-align: center;
+  padding: 20px;
+  color: white; /* Adjust text color for better visibility */
+}
+
+.counter {
+  margin-bottom: 20px;
+}
+
+.counter h2 {
+  font-size: 24px;
+}
+
+.counter button {
+  margin: 5px;
+}
+
+.input-container {
+  margin-top: 10px;
+}
+
+.input-container input {
+  margin-right: 10px;
+}

@@ -1,0 +1,29 @@
+/* filepath: /Users/tapwater/code/react-test-project/src/App.css */
+body {
+  font-family: 'Georgia', serif;
+}
+
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.counter {
+  margin-bottom: 20px;
+}
+
+.counter h2 {
+  font-size: 24px;
+}
+
+.counter button {
+  margin: 5px;
+}
+
+.input-container {
+  margin-top: 10px;
+}
+
+.input-container input {
+  margin-right: 10px;
+}
